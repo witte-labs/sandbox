@@ -52,5 +52,6 @@ CodeCoverage/
 *.VisualState.xml
 TestResult.xml
 nunit-*.xml
-/.vs
-/DotNetCoreSolution1/DotNetCoreWebApi1/.vs/DotNetCoreWebApi1
+/.vs/
+/CopilotIndices\*.*
+/DotNetCoreSolution1/DotNetCoreWebApi1/.vs/DotNetCoreWebApi1/CopilotIndices/17.13.439.2385
