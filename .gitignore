@@ -53,5 +53,4 @@ CodeCoverage/
 TestResult.xml
 nunit-*.xml
 
-/.vs/
-/DotNetCoreSolution1/.vs/DotNetCoreSolution1/FileContentIndex/56572d33-137c-430f-97d1-c98e13c539c8.vsidx
+.vs/
