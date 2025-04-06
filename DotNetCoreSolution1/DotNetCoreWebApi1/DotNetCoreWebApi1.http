@@ -4,3 +4,11 @@ GET {{DotNetCoreWebApi1_HostAddress}}/weatherforecast/
 Accept: application/json
 
 ###
+
+###Test to see if you can send to any url
+
+GET https://www.google.com/
+
+
+### Curl requests
+### https://oxylabs.io/blog/curl-post-requests
